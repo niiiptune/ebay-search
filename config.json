@@ -1,0 +1,11 @@
+{
+  "keyword": "soccer",
+  "categoryId": "261328",
+  "aspect": {
+    "name": "Sport",
+    "value": "Soccer"
+  },
+  "minimumPrice": 69,
+  "currency": "USD",
+  "windowHours": 24
+}

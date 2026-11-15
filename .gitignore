@@ -1,0 +1,6 @@
+.env
+node_modules/
+.ebay-user-token.json
+.ebay-user-token.json.tmp
+report.html
+watchlist.html
